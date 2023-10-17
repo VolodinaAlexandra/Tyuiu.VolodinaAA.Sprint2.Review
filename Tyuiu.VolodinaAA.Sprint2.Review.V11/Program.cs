@@ -35,7 +35,7 @@ namespace Tyuiu.VolodinaAA.Sprint2.Review.V11
             Console.WriteLine("Введите координату Y: ");
             y = double.Parse(Console.ReadLine());
 
-            bool res = ds.CheckDotInShadedArea(x, y);
+            bool res = ds.CheckDotInShadedArea(x, y);  
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tyuiu.VolodinaAA.Sprint2.Review.V11.Lib
 {
-    public class DataService
+    public class DataService  
     {
         public bool CheckDotInShadedArea(double x, double y)
         {

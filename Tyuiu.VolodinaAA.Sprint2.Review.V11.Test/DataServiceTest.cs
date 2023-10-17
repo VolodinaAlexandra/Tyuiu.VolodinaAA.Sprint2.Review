@@ -5,7 +5,7 @@ using Tyuiu.VolodinaAA.Sprint2.Review.V11.Lib;
 namespace Tyuiu.VolodinaAA.Sprint2.Review.V11.Test
 {
     [TestClass]
-    public class DataServiceTest
+    public class DataServiceTest  
     {
         [TestMethod]
         public void CheckDotInShadedAreaValid()
